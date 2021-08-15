@@ -1,3 +1,3 @@
 # Git and github course
 
-Crash course for git1
+Crash course for git12
